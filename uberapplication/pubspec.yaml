@@ -1,0 +1,68 @@
+name: uberapplication
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_core: ^1.0.1
+  firebase_auth: ^1.0.1
+  firebase_database: ^6.1.0
+  fluttertoast: ^7.1.8
+  google_maps_flutter: ^2.0.1
+  geolocator: ^7.0.1
+  http: ^0.13.1
+  provider: ^5.0.0
+  font_awesome_flutter: ^9.0.0
+  animated_text_kit: ^4.1.0
+  flutter_polyline_points: ^0.2.6
+  flutter_geofire: ^2.0.0
+  url_launcher: ^6.0.3
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - images/car_android.png
+     - images/car_ios.png
+     - images/desticon.png
+     - images/desticon1.png
+     - images/logo.png
+     - images/logo1.png
+     - images/pickicon.png
+     - images/posimarker.png
+     - images/redmarker.png
+     - images/taxi.png
+     - images/user_icon.png
+     - images/bike.png
+     - images/ubergo.png
+     - images/uberx.png
+
+
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: fonts/Signatra.ttf
+
+    - family: Brand-Regular
+      fonts:
+        - asset: fonts/bolt-regular.ttf  
+
+    - family: Brand Bold
+      fonts:
+        - asset: fonts/bolt-semibold.ttf    
