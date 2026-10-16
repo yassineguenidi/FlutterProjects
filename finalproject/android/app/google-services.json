@@ -18,18 +18,21 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.finalproject",
-            "certificate_hash": "f4411ffc3b7cc5442422ed56679ad3ae82d7a03f"
+            "certificate_hash": ""
+            f4411ffc3b7cc5442422ed56679ad3ae82d7a03f
           }
         },
         {
-          "client_id": "453823433626-hee2ji005bm3759pv5k5sp92t8kbh2o9.apps.googleusercontent.com",
+          "client_id": "",
+          453823433626-hee2ji005bm3759pv5k5sp92t8kbh2o9.apps.googleusercontent.com
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDDDUcbHyO2Vf42_Oqi7gd7Vo0gVDyv1CA"
-        }
+          "current_key": ""
+        }AIzaSyDDDUcbHyO2Vf42_
+        Oqi7gd7Vo0gVDyv1CA
       ],
       "services": {
         "appinvite_service": {
